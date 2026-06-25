@@ -10,17 +10,14 @@ menu:
     pre: fa-info-circle
 ---
 
-[Chirpy](https://github.com/cotes2020/jekyll-theme-chirpy) is a blog theme originally based on [Jekyll](https://jekyllrb.com/). Due to Jekyll's design limitations, it does not natively support internationalization (i18n) and requires third-party plugins for i18n functionality. To enable i18n support for Chirpy without the hassle of relying on third-party plugins, the [hugo-theme-chirpy](https://github.com/geekifan/hugo-theme-chirpy) project migrated the Chirpy theme to [Hugo](https://gohugo.io/) with minimal adaptations. All features of Chirpy are available in hugo-theme-chirpy (though some functionalities may operate differently within the Hugo framework).
+Hi, I'm Daniel, an Infrastructure & Software Engineer currently living in the United States. Started coding when I was 9 in the Warcraft 3 editor and slowly got deeper into backend systems and infrastructure over time.
 
-Follow the posts in the demo site to quickly set up a free personal blog!
-## Features
+I spent a lot of time in college doing research on robotics systems and at home coding for a World of Warcraft private server. After graduating I went to work at Tumblr on the Content Delivery team, helping to ensure images got to the users as fast as possible. I am also responsible for bringing the webp image format to tumblr \(sorry\). 
 
-- **Dark Mode**: Enhanced readability in low-light environments.
-- **Multilingual UI:** Easily switch between different languages.
-- **Efficient Post Organization:** Use hierarchical categories, trending tags, recommended reading, and search functionalities.
-- **Optimized Layout:** Includes TOC, syntax highlighting, prompts, and more.
-- **Rich Writing Extensions:** Support for mathematical formulas, charts, flowcharts, and embedded media.
-- **Multiple Comment Systems:** Choose from various commenting options.
-- **Web Analysis Tools:** Integrated with multiple analytics tools.
-- **Modern Web Technologies:** Built for SEO and web performance.
-- **RSS Feed Support:** Keep your readers updated with RSS feeds.
+After that I went to Level Inc and became full time infrastructure for a few years. 
+
+Currently looking for my next thing while I keep my skills sharp by running a home lab while building a video game on the side. 
+
+I am also a music producer and go by the name Danimal Sound, writing dubstep and soundtracks for games. 
+
+Some other hobbies I have include gaming, running, camping, and working on cards.
